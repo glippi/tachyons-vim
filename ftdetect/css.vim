@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.css,*.scss, *.less setf css
+autocmd BufNewFile,BufRead *.css,*.scss,*.less setf css
