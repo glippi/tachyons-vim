@@ -1,5 +1,4 @@
 let path = expand('%:h:h') . "/tachyons.txt"
-echo path
 setlocal complete+=k
-setlocal dictionary+=path
+execute 'setlocal dict+=' . path
 setlocal iskeyword+=-
