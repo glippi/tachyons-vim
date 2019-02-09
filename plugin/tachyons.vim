@@ -17,6 +17,8 @@ let g:loaded_tachyons_vim = 1
 let s:save_cpo = &cpo
 set cpo&vim
 
+let g:tachyonsDictionaryPath = $HOME/.local/share/dict/tachyons.txt
+
 "HTML
 let g:tachyons_vim_html =
 \ get(g:, 'tachyons_vim_html', 1)
