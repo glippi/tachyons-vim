@@ -1,1 +1,1 @@
-runtime! /ftplugin/css.vim
+runtime! /ftplugin/javascript.vim
