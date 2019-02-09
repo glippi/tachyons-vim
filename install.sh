@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-# create dict directory inside ./local/share/dict
-mkdir -p $HOME/.local/share/dict
+wd=$(pwd)
 
-ln -sf tachyons.txt $HOME/.local/share/dict/tachyons.txt
+# create dict directory inside ./local/share/dict
+mkdir -p ~/.local/share/dict
+
+ln -sf ${wd}/tachyons.txt ~/.local/share/dict/tachyons.txt
