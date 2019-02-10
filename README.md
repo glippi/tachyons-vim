@@ -2,7 +2,7 @@
 
 > :heavy_check_mark: tachyons-css classes in vim autocompletion
 
-![tachyons-vim.gif](https://github.com/glippi/tachyons-vim/blob/master/tachyons-vim.gif)
+![](https://github.com/glippi/tachyons-vim/blob/master/tachyons-vim.gif)
 
 ## What is tachyons-vim
 It's a simple plugin that add to the autocompletion system of Vim, the classes of [tachyons-css](https://github.com/tachyons-css/tachyons).
