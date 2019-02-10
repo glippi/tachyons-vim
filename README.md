@@ -1,4 +1,4 @@
-# tachyons-vim
+# :fast_forward: tachyons-vim
 
 > :heavy_check_mark: tachyons-css classes in vim autocompletion
 
