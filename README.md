@@ -37,7 +37,7 @@ inside the directory of the plugin, because otherwise you won't have the diction
 I create this plugin adapting the idea suggested in [this thread](https://vi.stackexchange.com/questions/4584/how-to-create-my-own-autocomplete-function).
 
 #### About tachyons-css
-More details on [tachyons-css](https://github.com/tachyons-css/tachyons) itself [here](https://tachyons.io/).
+More details on [tachyons-css](https://github.com/tachyons-css/tachyons) [here](https://tachyons.io/).
 
 #### Feedback
 If you think that something could be do in a better way, please open an issue explaining what and how could be improved.
