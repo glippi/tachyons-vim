@@ -10,7 +10,7 @@ If you use tachyons-css, you have to remember a lot of cryptic names that are re
 With this plugin you can simply start typing `pa` and then `C-n` or `C-p` and you will be supplied with the list of the matching classes from tachyons stylesheet.
 
 ## How does it works?
-It just add a dictionary composed of the name of the classes for you, and then add it to the completion sources.
+It just creates a dictionary with the name of the classes, and then adds it to the completion sources.
 
 ## In which environments it works better?
 It's very useful in react and JSX contexts, but it could be useful also in plain HTML and also in CSS files, if you want to overwrite some classes.
