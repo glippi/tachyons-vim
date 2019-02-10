@@ -4,7 +4,6 @@
 
 ![tachyons-vim](https://github.com/glippi/tachyons-vim/blob/master/tachyons-vim.gif)
 ![tachyons-vim](https://github.com/glippi/tachyons-vim/blob/master/out.gif)
-![tachyons-vim](https://github.com/glippi/tachyons-vim/blob/master/out16.gif)
 
 
 ## What is tachyons-vim
