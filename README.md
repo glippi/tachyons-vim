@@ -2,7 +2,7 @@
 
 > :heavy_check_mark: tachyons-css classes in vim autocompletion
 
-![tachyons-vim](https://github.com/glippi/tachyons-vim/blob/master/tachyons-vim.gif =600x250)
+![tachyons-vim](https://github.com/glippi/tachyons-vim/blob/master/tachyons-vim.gif | 600x250)
 ![tachyons-vim](https://media.giphy.com/media/PMTD3yendPW2Vs0voo/giphy.gif)
 
 
