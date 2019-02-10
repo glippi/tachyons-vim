@@ -1,4 +1,4 @@
-# tachyons-vim
+# :fast_forward: tachyons-vim
 
 > :heavy_check_mark: tachyons-css classes in vim autocompletion
 
@@ -12,11 +12,11 @@ If you use tachyons-css, you have to remember a lot of cryptic names that are re
 With this plugin you can simply start typing `pa` and then `C-n` or `C-p` and you will be supplied with the list of the matching classes from tachyons stylesheet.
 
 ## How does it works?
-It just add a dictionary composed of the name of the classes for you, and then add it to the completion sources.
+It just creates a dictionary with the name of the classes, and then adds it to the completion sources.
 
 ## In which environments it works better?
-It's very useful in react and JSX contexts, but it could be useful also in plain HTML and also in CSS files, if you want to overwrite some classes.
-By default it works in all this three filetypes, but one easily decide in which file it should be active by setting this variable to `0`:
+It's very useful in react and `JSX` contexts, but it could be useful also in plain `HTML` and also in `CSS` files, if you want to overwrite some classes.
+By default it works in all this three filetypes, but one can easily decide which switch off simply setting the relative variable to `0`:
 
 | Variable Name | Filetype | Default |
 | ------------- | -------- | ------- |
@@ -39,7 +39,7 @@ inside the directory of the plugin, because otherwise you won't have the diction
 I create this plugin adapting the idea suggested in [this thread](https://vi.stackexchange.com/questions/4584/how-to-create-my-own-autocomplete-function).
 
 #### About tachyons-css
-More details on [tachyons-css](https://github.com/tachyons-css/tachyons) itself [here](https://tachyons.io/).
+More details on [tachyons-css](https://github.com/tachyons-css/tachyons) [here](https://tachyons.io/).
 
 #### Feedback
 If you think that something could be do in a better way, please open an issue explaining what and how could be improved.
