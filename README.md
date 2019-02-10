@@ -2,6 +2,8 @@
 
 > :heavy_check_mark: tachyons-css classes in vim autocompletion
 
+![tachyons-vim.gif](https://github.com/glippi/tachyons-vim/blob/master/tachyons-vim.gif)
+
 ## What is tachyons-vim
 It's a simple plugin that add to the autocompletion system of Vim, the classes of [tachyons-css](https://github.com/tachyons-css/tachyons).
 
@@ -16,10 +18,10 @@ It just add a dictionary composed of the name of the classes for you, and then a
 It's very useful in react and JSX contexts, but it could be useful also in plain HTML and also in CSS files, if you want to overwrite some classes.
 By default it works in all this three filetypes, but one easily decide in which file it should be active by setting this variable to `0`:
 
-| Variable Name | Filetype | Default | 
+| Variable Name | Filetype | Default |
 | ------------- | -------- | ------- |
 | g:tachyons_vim_jsx  | JSX | 1 |
-| g:tachyons_vim_html | HTML | 1 | 
+| g:tachyons_vim_html | HTML | 1 |
 | g:tachyons_vim_css  | CSS | 1 |
 
 ## Installation
