@@ -13,8 +13,8 @@ With this plugin you can simply start typing `pa` and then `C-n` or `C-p` and yo
 It just creates a dictionary with the name of the classes, and then adds it to the completion sources.
 
 ## In which environments it works better?
-It's very useful in react and JSX contexts, but it could be useful also in plain HTML and also in CSS files, if you want to overwrite some classes.
-By default it works in all this three filetypes, but one easily decide in which file it should be active by setting this variable to `0`:
+It's very useful in react and `JSX` contexts, but it could be useful also in plain `HTML` and also in `CSS` files, if you want to overwrite some classes.
+By default it works in all this three filetypes, but one can easily decide which switch off simply setting the relative variable to `0`:
 
 | Variable Name | Filetype | Default | 
 | ------------- | -------- | ------- |
